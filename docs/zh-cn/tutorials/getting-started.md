@@ -189,7 +189,7 @@ BMad-Help 将检测你已完成的内容，并准确推荐下一步该做什么�
 | 步骤 | 智能体 | 工作流       | 命令                    | 目的                            |
 | ---- | ------ | ------------ | ----------------------- | ------------------------------- |
 | 1    | DEV    | `bmad-create-story` | `bmad-create-story` | 从史诗创建故事文件              |
-| 2    | DEV    | `bmad-detail-design`| `bmad-detail-design`| 为 story 创建技术设计           |
+| 2    | DEV    | `bmad-detail-design`| `bmad-detail-design`| 为已验证的 story 创建技术设计   |
 | 3    | DEV    | `bmad-dev-story`    | `bmad-dev-story`    | 实现故事                        |
 | 4    | DEV    | `bmad-code-review`  | `bmad-code-review`  | 质量验证 *（推荐）*             |
 

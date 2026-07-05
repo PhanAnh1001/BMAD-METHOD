@@ -190,7 +190,7 @@ Với mỗi story, lặp lại chu trình này trong chat mới:
 | Bước | Agent | Workflow | Lệnh | Mục đích |
 | ---- | ----- | -------------- | -------------------------- | ---------------------------------- |
 | 1 | DEV | `bmad-create-story` | `bmad-create-story` | Tạo file story từ epic |
-| 2 | DEV | `bmad-detail-design` | `bmad-detail-design` | Tạo thiết kế kỹ thuật cho story |
+| 2 | DEV | `bmad-detail-design` | `bmad-detail-design` | Tạo thiết kế kỹ thuật cho story đã được thẩm định |
 | 3 | DEV | `bmad-dev-story` | `bmad-dev-story` | Triển khai story |
 | 4 | DEV | `bmad-code-review` | `bmad-code-review` | Kiểm tra chất lượng *(khuyến nghị)* |
 

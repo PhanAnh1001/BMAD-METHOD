@@ -204,7 +204,7 @@ Pour chaque story, répétez ce cycle dans de nouveaux chats :
 | Étape | Agent | Workflow            | Commande            | Objectif                             |
 |-------|-------|---------------------|---------------------|--------------------------------------|
 | 1     | DEV   | `bmad-create-story` | `bmad-create-story` | Créer le fichier story depuis l’epic |
-| 2     | DEV   | `bmad-detail-design`| `bmad-detail-design`| Créer une conception technique pour la story |
+| 2     | DEV   | `bmad-detail-design`| `bmad-detail-design`| Créer une conception technique pour une story validée |
 | 3     | DEV   | `bmad-dev-story`    | `bmad-dev-story`    | Implémenter la story                 |
 | 4     | DEV   | `bmad-code-review`  | `bmad-code-review`  | Validation qualité *(recommandée)*   |
 

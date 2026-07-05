@@ -190,7 +190,7 @@ Pro každou story opakujte tento cyklus s novými chaty:
 | Krok | Agent | Workflow             | Příkaz                     | Účel                               |
 | ---- | ----- | -------------------- | -------------------------- | ---------------------------------- |
 | 1    | DEV   | `bmad-create-story`  | `bmad-create-story`        | Vytvoření story souboru z epicu    |
-| 2    | DEV   | `bmad-detail-design` | `bmad-detail-design`       | Vytvoření technického návrhu pro story |
+| 2    | DEV   | `bmad-detail-design` | `bmad-detail-design`       | Vytvoření technického návrhu pro validovanou story |
 | 3    | DEV   | `bmad-dev-story`     | `bmad-dev-story`           | Implementace story                 |
 | 4    | DEV   | `bmad-code-review`   | `bmad-code-review`         | Validace kvality *(doporučeno)*    |
 
